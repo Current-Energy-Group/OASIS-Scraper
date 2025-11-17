@@ -5,4 +5,4 @@ A list of the node names can be seen on the drop down at this link: http://oasis
 
 Code downloads the .ZIP's for each month of the intended year, retrieves the .CSV files, aggregates them into one file, keeps only LMP data and sorts chronologically. 
 
-Reach out to jahern@strategen.com with any questions!
+Reach out to jahern@currentenergy.group with any questions!
